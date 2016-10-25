@@ -12,3 +12,20 @@ License URI: http://creativecommons.org/licenses/by-sa/3.0/
 
 This simple theme was built using the example Bootstrap theme "Basic marketing site" found on the Bootstrap web site http://twitter.github.com/bootstrap/examples/hero.html
 */
+
+@import url('bootstrap/css/bootstrap.css');
+/*@import url('bootstrap/css/bootstrap-responsive.css');*/
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.navbar-inverse .navbar-nav > .current_page_item > a,
+.navbar-inverse .navbar-nav > .current_page_item > a:hover,
+.navbar-inverse .navbar-nav > .current_page_item > a:focus,
+.navbar-inverse .navbar-nav > .current_page_parent > a,
+.navbar-inverse .navbar-nav > .current_page_parent > a:hover,
+.navbar-inverse .navbar-nav > .current_page_parent > a:focus {
+  color: #fff;
+  background-color: #080808;
+}
