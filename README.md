@@ -1,2 +1,2 @@
-# wp-bootstrap-theme
-Bootstrap based theme for Wordpress
+# wp-bootstrap-simpletheme
+Bootstrap simple theme for Wordpress from TreeHouse tutorial
